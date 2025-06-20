@@ -1,20 +1,18 @@
 # MMM-OpeningHours - WIP
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Menturan/MMM-OpeningHours/badge.svg)](https://snyk.io/test/github/Menturan/MMM-OpeningHours)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/Menturan/MMM-OpeningHours.svg?style=flat-square)](https://lgtm.com/projects/g/Menturan/MMM-OpeningHours/alerts?mode=list)
-[![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/g/Menturan/MMM-OpeningHours.svg?style=flat-square)](https://lgtm.com/projects/g/Menturan/MMM-OpeningHours/)
-[![Yarn](https://img.shields.io/badge/dependency%20manager-Yarn-blue.svg?style=flat-square)](https://yarnpkg.com)
+A [MagicMirror²](https://magicmirror.builders) to show store opening hours.
 
+[![Platform](https://img.shields.io/badge/platform-MagicMirror-informational)](https://MagicMirror.builders)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/Menturan/MMM-OpeningHours/badge.svg)](https://snyk.io/test/github/Menturan/MMM-OpeningHours)
+[![Yarn](https://img.shields.io/badge/dependency%20manager-Yarn-blue.svg?style=flat-square)](https://yarnpkg.com)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=flat-square)](https://saythanks.io/to/Menturan)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=flat-square)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Menturan/MMM-OpeningHours.svg?style=flat-square)](https://github.com/Menturan/MMM-OpeningHours/graphs/commit-activity)
 [![GitHub License](https://img.shields.io/github/license/Menturan/MMM-OpeningHours.svg?style=flat-square)](https://github.com/Menturan/MMM-OpeningHours/blob/master/LICENSE)
 
 
-**Note! This module is still under development!
-Things such as configurations and appearance may change. Use at your own risk!**
-
-Magic Mirror module that displays places opening hours.
+MagicMirror² module that displays places opening hours.
 Relies on [Google Places API](https://developers.google.com/places/web-service/intro).
 
 ## Screenshot
