@@ -1,6 +1,6 @@
 # MMM-OpeningHours - WIP
 
-A [MagicMirror²](https://magicmirror.builders) to show store opening hours.
+A [MagicMirror²](https://magicmirror.builders) module to show store opening hours.
 
 [![Platform](https://img.shields.io/badge/platform-MagicMirror-informational)](https://MagicMirror.builders)
 
