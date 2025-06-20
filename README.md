@@ -4,12 +4,11 @@ A [MagicMirror²](https://magicmirror.builders) module to show store opening hou
 
 [![Platform](https://img.shields.io/badge/platform-MagicMirror-informational)](https://MagicMirror.builders)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Menturan/MMM-OpeningHours/badge.svg)](https://snyk.io/test/github/Menturan/MMM-OpeningHours)
+[![Known Vulnerabilities](https://snyk.io/test/github/Menturan/MMM-OpeningHours/badge.svg)](https://snyk.io/test/github/mumblebaj/MMM-OpeningHours)
 [![Yarn](https://img.shields.io/badge/dependency%20manager-Yarn-blue.svg?style=flat-square)](https://yarnpkg.com)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=flat-square)](https://saythanks.io/to/Menturan)
-![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=flat-square)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Menturan/MMM-OpeningHours.svg?style=flat-square)](https://github.com/Menturan/MMM-OpeningHours/graphs/commit-activity)
-[![GitHub License](https://img.shields.io/github/license/Menturan/MMM-OpeningHours.svg?style=flat-square)](https://github.com/Menturan/MMM-OpeningHours/blob/master/LICENSE)
+![Maintenance](https://img.shields.io/maintenance/yes/2025.svg?style=flat-square)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mumblebaj/MMM-OpeningHours.svg?style=flat-square)](https://github.com/mumblebaj/MMM-OpeningHours/graphs/commit-activity)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 
 MagicMirror² module that displays places opening hours.
