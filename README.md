@@ -30,6 +30,8 @@ Contributors of this module is not responsible for any charges.**
 ## Install
 This module uses Yarn.
 1. `yarn install`
+NPM also works
+1. `npm install --omit=dev`
 
 ## Find places ID
 Search for the place to get its ID. You really needs to **search** for a place. Clicking on a place wont cut it.
